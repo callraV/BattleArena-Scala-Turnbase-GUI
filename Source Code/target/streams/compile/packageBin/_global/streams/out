@@ -1,0 +1,147 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\my-game_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\ArenaBackground.jpeg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\ArenaBackground.jpeg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\Assassin.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\Assassin.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\AssassinRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\AssassinRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\Knight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\Knight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\KnightRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\KnightRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\Mage.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\Mage.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\MageRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\MageRight.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\MenuBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\MenuBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\image\MovesGuide.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\image\MovesGuide.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Assassin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Assassin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Attacks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Attacks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Fighter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Fighter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Grimoire$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Grimoire$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Grimoire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Grimoire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Heals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Heals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Javelin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Javelin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Javelin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Javelin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Knight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Knight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Knives$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Knives$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Knives.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Knives.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Lance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Lance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Lance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Lance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Mage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Mage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Miasma$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Miasma$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Miasma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Miasma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Potion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Potion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Potion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Potion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Stomp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Stomp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Stomp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Stomp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Summon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Summon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Summon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Summon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Tome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Tome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Tome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Tome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Traps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Traps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\Traps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\Traps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\util\BattleHistory.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\util\BattleHistory.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\model\util\CharacterSelectionHolder.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\model\util\CharacterSelectionHolder.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\BattleHistory.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\BattleHistory.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\BattleHistoryController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\BattleHistoryController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\BattleHistoryController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\BattleHistoryController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelection.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelection.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\CharacterSelectionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\CharacterSelectionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\Game.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\Game.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\Guide.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\Guide.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\GuideController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\GuideController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\GuideController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\GuideController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\Menu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\Menu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\RootController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\RootController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\RootController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\RootController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	arenaGame\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes\arenaGame\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

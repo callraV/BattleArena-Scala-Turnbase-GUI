@@ -1,0 +1,55 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assassin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Traps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Stomp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RootController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Potion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Stomp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RootController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Summon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Knight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Heals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fighter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BattleHistoryController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuideController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuideController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Traps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BattleHistoryController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Knives$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Miasma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Grimoire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Javelin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Javelin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Knives.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Grimoire$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Summon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Miasma$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Attacks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Potion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CharacterSelectionController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\Callista\Documents\UNIVERSITY Y2\SEM1\OOP FINALS THIS\Project_20018016\My Game\target\scala-2.12\classes.bak[0m
