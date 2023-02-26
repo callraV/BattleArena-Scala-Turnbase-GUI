@@ -23,7 +23,7 @@ object MainApp extends JFXApp {
     }
   }
 
-  showMenu() //show first window
+  showMenu() //show the first window
 
   def showMenu(): Unit = {
     val resource = getClass.getResource("view/Menu.fxml") //testing
